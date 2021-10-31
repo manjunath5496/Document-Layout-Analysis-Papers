@@ -25,7 +25,7 @@ Combining Object Detectors Using Learning to Rank </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Document-Layout-Analysis-Papers/blob/master/dl(12).pdf" style="text-decoration:none;">Fast Visual Object Tracking with Rotated Bounding Boxes</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Document-Layout-Analysis-Papers/blob/master/dl(13).pdf" style="text-decoration:none;">Document Structure and Layout Analysis</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Document-Layout-Analysis-Papers/blob/master/dl(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Document-Layout-Analysis-Papers/blob/master/dl(14).pdf" style="text-decoration:none;">DocBank: A Benchmark Dataset for Document Layout Analysis</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Document-Layout-Analysis-Papers/blob/master/dl(15).pdf" style="text-decoration:none;">Recognition of Multi-Oriented, Multi-Sized, and Curved Text</a></li>
 
@@ -67,7 +67,7 @@ Extracting Figures, Tables and Captions from Computer Science Papers </a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Document-Layout-Analysis-Papers/blob/master/dl(34).pdf" style="text-decoration:none;">Ensure Non-Overlapping in Document Layout Analysis</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Document-Layout-Analysis-Papers/blob/master/dl(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Document-Layout-Analysis-Papers/blob/master/dl(35).pdf" style="text-decoration:none;">Multi-Task Handwritten Document Layout Analysis</a></li> 
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Document-Layout-Analysis-Papers/blob/master/dl(36).pdf" style="text-decoration:none;">Algorithms For The Reduction Of The Number Of Points Required To Represent A Digitized Line Or Its Caricature</a></li> 
  
@@ -138,5 +138,15 @@ Guessing Ligatures</a></li>
  
  <li><a target="_blank" href="https://github.com/manjunath5496/Document-Layout-Analysis-Papers/blob/master/dl(73).pdf" style="text-decoration:none;">Polygon Detection from a Set of Lines</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Document-Layout-Analysis-Papers/blob/master/dl(74).pdf" style="text-decoration:none;">How Document Pre-processing affects Keyphrase Extraction Performance</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Document-Layout-Analysis-Papers/blob/master/dl(75).pdf" style="text-decoration:none;">Improving typography and minimising computation for documents with scalable layouts</a></li>                        
+    <li><a target="_blank" href="https://github.com/manjunath5496/Document-Layout-Analysis-Papers/blob/master/dl(75).pdf" style="text-decoration:none;">Improving typography and minimising computation for documents with scalable layouts</a></li>    
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Document-Layout-Analysis-Papers/blob/master/dl(76).pdf" style="text-decoration:none;">Combining Visual and Textual Features for Semantic Segmentation of Historical Newspapers</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Document-Layout-Analysis-Papers/blob/master/dl(77).pdf" style="text-decoration:none;">ICDAR 2021 Competition on
+Historical Map Segmentation </a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Document-Layout-Analysis-Papers/blob/master/dl(78).pdf" style="text-decoration:none;">A Large Dataset of Historical Japanese Documents with Complex Layouts</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Document-Layout-Analysis-Papers/blob/master/dl(79).pdf" style="text-decoration:none;">DocSynth: A Layout Guided Approach for Controllable Document Image Synthesis</a></li>   
+  
+  
+  
 </ul>
